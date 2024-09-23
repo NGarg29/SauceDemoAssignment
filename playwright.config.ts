@@ -14,7 +14,6 @@ export default defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome']},
-      //  dependencies: ['Global set up'],
     },
   ],
 });
