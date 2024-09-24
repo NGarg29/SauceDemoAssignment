@@ -4,7 +4,4 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 results.json
-tests-extra/amazon-demo.spec.ts
-tests-extra/global.setup.ts
-tests-extra/sauce-demo-seq.spec.ts
-tests-extra/sauce-demo.spec.ts
+tests-extra/
