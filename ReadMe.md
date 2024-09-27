@@ -26,9 +26,9 @@ Follow these steps to set up and run the tests on your local machine:
 
 1. **Clone the Repository**: 
    Open your terminal and run the following command to clone the repository:
-   `git clone https://github.com/NGarg29/SauceDemoAssignment.git`
+   `git clone https://github.com/NGarg29/playwright-typescript-automation-SauceDemoAssignment.git`
    Navigate into the project directory:
-   `cd SauceDemoAssignment`
+   `cd playwright-typescript-automation-SauceDemoAssignment`
 
 2. **Install Dependencies**: 
    To install all required packages, run:
